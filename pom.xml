@@ -34,6 +34,11 @@
             <version>1.8.1</version>
         </dependency>
 
-    </dependencies>
+        <dependency>
+            <groupId>com.alibaba.csp</groupId>
+            <artifactId>sentinel-datasource-nacos</artifactId>
+            <version>1.8.1</version>
+        </dependency>
 
+    </dependencies>
 </project>

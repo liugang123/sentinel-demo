@@ -31,4 +31,9 @@ public class RestDemoController {
     public String circuitBreak() {
         return "ciruitBreak";
     }
+
+    @RequestMapping("/nacosTest")
+    public String nacosTest() {
+        return "nacosTest";
+    }
 }
